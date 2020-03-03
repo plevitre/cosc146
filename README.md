@@ -1,1 +1,1 @@
-# cosc146
+This is for the homeowrk assignment
